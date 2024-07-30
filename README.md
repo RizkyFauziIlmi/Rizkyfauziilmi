@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently student on Widyatama University<br>🌱 I’m currently learning Web development and Data Science<br>💬 Ask me about Web<br>⚡ Fun fact: I like reading book and cats
+🔭 I’m currently student on Widyatama University<br>🌱 I’m currently learning Web development and Data Science<br>💬 Ask me about Web<br>⚡ Fun fact: I like cats and reading book
 
 
 ## 🌐 Socials:
